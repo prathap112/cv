@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: cursive;
+  background-color: powderblue;
+}
+
+.topdiv {
+  background-color: powderblue;
+  margin-top: 0;
+  padding: 20px;
+}
+
+.head1 {
+
+  margin: 0 auto;
+  font-family: ;
+  font-size:90px;
+  color: #7873e6;
+
+}
+
+.cloud1 {
+  position: absolute;
+  left: 450px;
+}
+
+.cloud {
+  position: relative;
+  left: 250px;
+}
+.profilepic1{
+
+  height:150px;
+  width: 150px;
+  border-radius: 50%;
+}
+.profile{
+  background-color:#eaeaea ;
+
+}
+.hrone{
+  border: 10px 0 0 0;
+  width:30px;
+
+
+}
+.developer{
+  font-size: 2.5rem;
+}
+.noclass{
+  float: left;
+  height:100px
+
+}
+.dev{text-decoration: underline;}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+}
+.skills{
+  text-align: center;
+}
+.myskills{
+  margin-bottom: 100px;
+  color:blue;
+}
+.laptop{
+  
+  margin-left: 30px;
+  float:right;
+  height:150px;
+  width: 150px;
+  border-radius: 50%;
+
+
+
+}
+.contact-me{
+  margin-top: 100px;
+
+}
